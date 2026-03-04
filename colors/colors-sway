@@ -1,0 +1,21 @@
+set $wallpaper /home/kevin/Pictures/fern.png
+
+set $background #000000
+set $foreground #ccc6d0
+
+set $color0 #000000
+set $color1 #B85E9C
+set $color2 #93758F
+set $color3 #7484A1
+set $color4 #AC989D
+set $color5 #DCADA3
+set $color6 #D9C9AE
+set $color7 #ccc6d0
+set $color8 #796c85
+set $color9 #B85E9C
+set $color10 #93758F
+set $color11 #7484A1
+set $color12 #AC989D
+set $color13 #DCADA3
+set $color14 #D9C9AE
+set $color15 #ccc6d0

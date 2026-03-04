@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/kevin/Pictures/fern.png"
+let background = "#000000"
+let foreground = "#ccc6d0"
+let cursor     = "#ccc6d0"
+
+" Colors
+let color0  = "#000000"
+let color1  = "#B85E9C"
+let color2  = "#93758F"
+let color3  = "#7484A1"
+let color4  = "#AC989D"
+let color5  = "#DCADA3"
+let color6  = "#D9C9AE"
+let color7  = "#ccc6d0"
+let color8  = "#796c85"
+let color9  = "#B85E9C"
+let color10 = "#93758F"
+let color11 = "#7484A1"
+let color12 = "#AC989D"
+let color13 = "#DCADA3"
+let color14 = "#D9C9AE"
+let color15 = "#ccc6d0"
