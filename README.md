@@ -1,5 +1,5 @@
-#Dots
-Contains
+# Dots
+Contains:
 - DWL build
 - somebar build
 - colors from wallpaper with pywal16
