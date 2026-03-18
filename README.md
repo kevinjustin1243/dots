@@ -17,4 +17,4 @@ Directory Layout:
 - Wallpapers: has wallpapers used which would be placed in `~/Pictures`
 
 Schemes:
-- Sakura: wallpaper - `sakura.jpg`, colors - `Sakura`
+- Sakura: wallpaper - `sakura.jpg`, colors - `Sakura`, configs - `Sakura`
