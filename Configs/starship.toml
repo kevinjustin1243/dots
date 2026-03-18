@@ -1,0 +1,35 @@
+palette = "sakura"
+
+[palettes.sakura]
+color0 = "#161e0d"
+color1 = "#6B7B89"
+color2 = "#AE6389"
+color3 = "#D86D91"
+color4 = "#A69D9A"
+color5 = "#D4A0A5"
+color6 = "#D2C0BB"
+color7 = "#c4c6c2"
+color8 = "#67705c"
+color9 = "#6B7B89"
+color10 = "#AE6389"
+color11 = "#D86D91"
+color12 = "#A69D9A"
+color13 = "#D4A0A5"
+color14 = "#D2C0BB"
+color15 = "#c4c6c2"
+
+[directory]
+style = "bold color5"   # your mauve
+
+[git_branch]
+style = "color1"        # your pink
+
+[character]
+success_symbol = "[❯](bold color2)"
+error_symbol   = "[❯](bold color1)"
+
+[cmd_duration]
+style = "color3"        # yellow
+
+[username]
+style_user = "color6"   # cyan
