@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/kevin/Pictures/sakura.jpg"
+let background = "#161e0d"
+let foreground = "#c4c6c2"
+let cursor     = "#c4c6c2"
+
+" Colors
+let color0  = "#161e0d"
+let color1  = "#6B7B89"
+let color2  = "#AE6389"
+let color3  = "#D86D91"
+let color4  = "#A69D9A"
+let color5  = "#D4A0A5"
+let color6  = "#D2C0BB"
+let color7  = "#c4c6c2"
+let color8  = "#67705c"
+let color9  = "#6B7B89"
+let color10 = "#AE6389"
+let color11 = "#D86D91"
+let color12 = "#A69D9A"
+let color13 = "#D4A0A5"
+let color14 = "#D2C0BB"
+let color15 = "#c4c6c2"

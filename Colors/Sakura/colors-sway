@@ -1,0 +1,21 @@
+set $wallpaper /home/kevin/Pictures/sakura.jpg
+
+set $background #161e0d
+set $foreground #c4c6c2
+
+set $color0 #161e0d
+set $color1 #6B7B89
+set $color2 #AE6389
+set $color3 #D86D91
+set $color4 #A69D9A
+set $color5 #D4A0A5
+set $color6 #D2C0BB
+set $color7 #c4c6c2
+set $color8 #67705c
+set $color9 #6B7B89
+set $color10 #AE6389
+set $color11 #D86D91
+set $color12 #A69D9A
+set $color13 #D4A0A5
+set $color14 #D2C0BB
+set $color15 #c4c6c2

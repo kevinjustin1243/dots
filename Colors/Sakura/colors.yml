@@ -1,0 +1,24 @@
+wallpaper: "/home/kevin/Pictures/sakura.jpg"
+
+special:
+    background: "#161e0d"
+    foreground: "#c4c6c2"
+    cursor: "#c4c6c2"
+
+colors:
+    color0: "#161e0d"
+    color1: "#6B7B89"
+    color2: "#AE6389"
+    color3: "#D86D91"
+    color4: "#A69D9A"
+    color5: "#D4A0A5"
+    color6: "#D2C0BB"
+    color7: "#c4c6c2"
+    color8: "#67705c"
+    color9: "#6B7B89"
+    color10: "#AE6389"
+    color11: "#D86D91"
+    color12: "#A69D9A"
+    color13: "#D4A0A5"
+    color14: "#D2C0BB"
+    color15: "#c4c6c2"
